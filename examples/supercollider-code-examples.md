@@ -6,6 +6,8 @@ category: "examples"
 sort_order: 2
 ---
 
+You can find a lot of code on [SuperCollider Code](http://sccode.org)
+
 
 A babbling brook by [James McCartney 2007](http://www.listarc.bham.ac.uk/lists/sc-users-2007/msg02698.html).
 
@@ -19,4 +21,4 @@ A babbling brook by [James McCartney 2007](http://www.listarc.bham.ac.uk/lists/s
 }.play
 {% endhighlight %}
 
-more to come...
+<iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=http%3A%2F%2Fapi.soundcloud.com%2Fgroups%2F3574&show_artwork=true">hello</iframe>
